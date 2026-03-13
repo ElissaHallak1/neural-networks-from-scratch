@@ -18,6 +18,8 @@ The implemented library was used to train a multilayer perceptron on the MNIST h
 Hidden layers use ReLU activation, while the output layer produces raw logits used with CrossEntropyLoss.
 
 ### Project structure
+
+```
 deustorch/
 │
 ├── nn/
@@ -33,6 +35,7 @@ deustorch/
 │   └── sgd.py
 │
 └── main.py
+```
 
 ### Installation/runnning the script
 git clone https://github.com/your-username/deustorch.git
