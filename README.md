@@ -47,7 +47,7 @@ pip install numpy scikit-learn
 ##### Running the script:
 python main.py
 
-This will load the MNIST dataset, train the neural network and print training loss and accuracy.
+#### This will load the MNIST dataset, train the neural network and print training loss and accuracy.
 
 
 
