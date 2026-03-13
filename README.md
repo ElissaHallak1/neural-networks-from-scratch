@@ -41,10 +41,10 @@ deustorch/
 git clone https://github.com/your-username/deustorch.git
 cd deustorch
 
-Install dependencies:
+#### Install dependencies:
 pip install numpy scikit-learn
 
-Running the script:
+##### Running the script:
 python main.py
 
 This will load the MNIST dataset, train the neural network and print training loss and accuracy.
